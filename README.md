@@ -1,1 +1,1 @@
-# PDF_TO_IMG-TEXT-
+# PDF_IMG_TEXT
